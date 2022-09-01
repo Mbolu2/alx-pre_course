@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 echo "ALX"
+=======
+echo "ALX School"
+
+>>>>>>> refs/remotes/origin/main
