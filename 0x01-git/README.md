@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-my second commit
-=======
-Hello World
->>>>>>> refs/remotes/origin/main
+This is good
